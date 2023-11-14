@@ -1,4 +1,4 @@
-# CPSC471_Project
+# Real Estate Database Management System
 
 To get this up and running for testing you will need to activate the python vitual environment that the project uses. 
 
@@ -11,4 +11,4 @@ Changes to the code will be updated live, changes to the database can be made fr
 
 Look in the front end folder for instructions on running React
 
-Most of the dependencies should be dealt with by the virtual env, but you'll need Python and likely Node.js
+Most of the dependencies should be dealt with by the virtual env, but you'll need Python and Node.js
